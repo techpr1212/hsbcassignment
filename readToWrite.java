@@ -2,7 +2,7 @@ import java.io.*;
 import java.util.Scanner;
 
 public class readToWrite {
-  public static void main(String[]args) throws FileNotFoundException,IOException {
+  public static void main(String[]args) throws IOException {
 
     String inputFilePath = args[0];
     String outputFilePath = args[1];
